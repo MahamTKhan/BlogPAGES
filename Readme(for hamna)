@@ -1,0 +1,3 @@
+http://localhost:3000/ pr mera webpage display hora but when i click on details wali button tou nothing happens....routing and all woh hojaegi dobara.... 
+
+mujhe manually yeh wali url daali parrahi tou it renders the content from database  http://localhost/BlogPost.php?id=1
